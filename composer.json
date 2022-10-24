@@ -1,0 +1,18 @@
+{
+    "name": "rober/car",
+    "type": "library",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Rober\\Car\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert Igumnov",
+            "email": "robert.rollun@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+}
