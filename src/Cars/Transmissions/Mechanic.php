@@ -6,6 +6,6 @@ class Mechanic implements TransmissionInterface
 {
     public function getTransmission(): string
     {
-        return 'get mechanic transmission';
+        return 'Mechanic';
     }
 }
