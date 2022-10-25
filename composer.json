@@ -4,7 +4,7 @@
     "license": "MTI",
     "autoload": {
         "psr-4": {
-            "Rober\\Car\\": "src/"
+            "Robert\\Cars\\": "src/Cars"
         }
     },
     "authors": [
@@ -14,5 +14,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {}
 }
